@@ -23,7 +23,7 @@ function Signup() {
                 </div>
                 <button className='btn btn-success w-100'>Sign up</button>
                 <p>You agree to our terms and policies</p>
-                <Link to="/" className='btn btn-default border w-100 bg-light text-decoration-none'>Go to Login</Link>
+                <Link to="/" className='btn btn-default border w-100 bg-light text-decoration-none'>Login</Link>
             </form>
         </div>
 
