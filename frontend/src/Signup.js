@@ -22,7 +22,7 @@ function Signup() {
                     <input type="password" placeholder='Enter Password'className='form-control rounded-0'/>
                 </div>
                 <button className='btn btn-success w-100'>Sign up</button>
-                <p>You agree to our terms and policies</p>
+                <p>You agree to our Terms and Conditions</p>
                 <Link to="/" className='btn btn-default border w-100 bg-light text-decoration-none'>Login</Link>
             </form>
         </div>
